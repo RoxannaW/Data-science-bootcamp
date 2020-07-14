@@ -1,0 +1,29 @@
+{
+    "picurl_square_spain": "https://4i2g925ohj.execute-api.eu-west-3.amazonaws.com/pro/coronavirus?confirmed_num=253%2C908&actives_num=216%2C926&recovered_num=8%2C579&deaths_num=28%2C403&date=13%20de%20julio%20del%202020&region=spain&aspect_ratio=square&client=default",
+    "picurl_square_spain_extended": "https://4i2g925ohj.execute-api.eu-west-3.amazonaws.com/pro/coronavirus?confirmed_num=253%2C908&confirmed_today_num=0&deaths_today_num=0&deaths_num=28%2C403&date=13%20de%20julio%20del%202020&region=spain&aspect_ratio=square&client=default&extended=true",
+    "graphs": {
+        "graph_picurl_china": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_china.png",
+        "graph_picurl_us": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_us.png",
+        "graph_picurl_deaths_evolution": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_deaths_evolution.png",
+        "graph_picurl_world": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_world.png",
+        "graph_picurl_china_confirmed": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_china_confirmed.png",
+        "graph_picurl_us_confirmed": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_us_confirmed.png",
+        "graph_picurl_spain_deaths": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_spain_deaths.png",
+        "graph_picurl_us_recovered": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_us_recovered.png",
+        "graph_picurl_deaths_log_evolution": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_deaths_log_evolution.png",
+        "graph_picurl_italy": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_italy.png",
+        "graph_picurl_italy_recovered": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_italy_recovered.png",
+        "graph_picurl_us_deaths": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_us_deaths.png",
+        "graph_picurl_italy_deaths": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_italy_deaths.png",
+        "graph_picurl_china_deaths": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_china_deaths.png",
+        "graph_picurl_italy_confirmed": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_italy_confirmed.png",
+        "graph_picurl_spain_confirmed": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_spain_confirmed.png",
+        "graph_picurl_china_recovered": "https://resources.gabriele.ai/coronavirus/2020-7-13-12_01-COVID-world-en_generic_COVID_EN_GENERIC_china_recovered.png"
+    },
+    "picurl_square_world": "https://4i2g925ohj.execute-api.eu-west-3.amazonaws.com/pro/coronavirus?confirmed_num=12%2C848%2C940&actives_num=5%2C321%2C549&recovered_num=6%2C969%2C443&deaths_num=557%2C948&date=13%20de%20julio%20del%202020&region=world&aspect_ratio=square&client=default",
+    "picurl_16_9_spain": "https://4i2g925ohj.execute-api.eu-west-3.amazonaws.com/pro/coronavirus?confirmed_num=12%2C848%2C940&deaths_num=557%2C948&date=13%20de%20julio%20del%202020&top_countries=EE.UU.%20%283%2C304%2C942%29%2C%20Brasil%20%281%2C864%2C681%29%2C%20India%20%28879%2C365%29&top_spain=Madrid%20%2872%2C532%29%2C%20Catalu%C3%B1a%20%2863%2C888%29%2C%20Castilla%20y%20Le%C3%B3n%20%2819%2C787%29&region=spain&aspect_ratio=16_9&client=default",
+    "composition_type": "world",
+    "country_selected": null,
+    "picurl_square_world_extended": "https://4i2g925ohj.execute-api.eu-west-3.amazonaws.com/pro/coronavirus?confirmed_num=12%2C848%2C940&actives_num=5%2C321%2C549&recovered_num=6%2C969%2C443&deaths_num=557%2C948&date=13%20de%20julio%20del%202020&region=world&aspect_ratio=square&client=default&extended=true",
+    "state_selected": null
+}
