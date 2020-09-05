@@ -53,3 +53,17 @@ lambda df:df.sort_values(by=["column_name1","column_name2"]) # can also do only 
 #variabel = variabel.apply("insert Lambda function")
 #delete the duplicate columns names
 
+
+"""function to replace values of a column that are negative with the mean value 
+    of the column (not taking into account the negative values)"""
+
+def replace(group):
+    mask = group<0
+    group[mask] = group[~mask].mean()
+    return group
+
+## use as following: new_info = df.groupby("columns name of groupby")["column to take into account"].apply(replace)
+
+
+"""Clean strings:"""
+df["Column"].str.elem.extract('([a-zA-Z\s]+)', expand=False).str.strip()
