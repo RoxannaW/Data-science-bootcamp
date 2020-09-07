@@ -17,7 +17,7 @@ def visualize_boundary_linear(X, y, clf):
     clf : Support Vector Classification
         The trained SVM.
     """
-    plot_data(X, y)
+
 
     coef = clf.coef_.ravel()
     intercept = clf.intercept_.ravel()
