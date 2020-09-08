@@ -1,0 +1,262 @@
+Introductie
+THE BRIDGE Data Science bootcamp is ontworpen om je te transformeren in een datawetenschapper die volledig is voorbereid op een carriäre succesvolle professional. Een carriäre in de wereld van data science vereist een combinatie van kennis variârend van wiskundige grondslagen tot het gebruik van algoritmen Machine learning en programmeren en daarom tijdens verschillende intenseweken leer je denken en werken als Data Scientist. Leren combineert lessen, interactieve praktijken, echte projecten en een afsluiting samenwerking met het docententeam en collega's. Als je afstudeert, heb je een solide basis opgebouwd programmeer-, reken- en leertechnieken evenals ervaring met de tools en omgevingen die bedrijven van hun eisen teams en nieuwe medewerkers. Naast deze vaardigheden te hebben opgedaan, ben je bereid dat ook te doen deelnemen en slagen voor een selectieproces. De geleverde inspanning Tijdens de bootcamp heeft het gediend om je portfolio te ontwikkelen en door te geven om deel uit te maken van de gemeenschap van ervaren behandelaars van gegevens.
+Inleiding
+Bootcamp bij Data Science
+Het beste curriculum in Data Science
+Ons curriculum is ontworpen volgens het meest rigoureuze proces en met de doel om onze studenten meer voor te bereiden op de digitale beroepen gevraagd op de arbeidsmarkt. De ontwikkeling van het curriculum werd geleid door grote experts op dit gebied, van van hun ervaring, hun kennis en een proces van analyse van de competenties meer geâist door bedrijven. En het is gevalideerd en aangepast door de iring verhuren managers 'van de bedrijven die de meeste professionals in het veld inhuren van Data Science. Het curriculum is gericht op de Python-taal en er zullen verschillende bibliotheken worden gebruikt voor gegevensverwerking en visualisatie (matplotlib, panda's), de creatie van modellen (sklearn, Keras, TensorFlow) evenals visualisatietools zoals Tableau. Het programma is zo ontworpen dat studenten het begrijpen basisfundamenten en kunnen andere talen en omgevingen gebruiken met snelheid en autonomie.
+Zodra onze Data Science-bootcamp met succes is voltooid, bent u dat in staat om een ??Data Science-project van begin tot eind te bouwen en in te zetten. Deze Dit zijn de belangrijkste technische vaardigheden die je hebt opgedaan:
+? Grondslagen voor het ontwikkelen van Data Science-werk
+? Python- en Data Science-bibliotheken
+? Fundamentele kennis van statistiek, calculus en algebra
+? Beheer van omgevingen, notebooks, GIT, etc.
+? Gegevensanalyse
+? Gegevensverkenning
+? Feature Engineering en gegevensvoorbereiding voor de algoritmen
+Machine learning
+? Datavisualisatie met Matplotlib en Tableau
+? Panda's, numpy en datastructuren in python
+? Machine learning
+? Klassieke ML-technieken met sklearn. Begeleid leren en niet
+begeleid. Bomen, clustering, k-middelen, clustering ...
+? Machine learning-concepten: hellingen, afstanden,
+modelevaluatie.
+? Deep Learning en neurale netwerken. Basisconcepten en begrip van
+de verschillende soorten en use cases van FFN, CNN.
+? Neurale netwerktraining met Keras en TensorFlow
+? Data Science en het bedrijfsleven
+? Overdracht van data science-projecten naar het bedrijf, productie.
+? Storytelling en data.
+? Interpreteerbaarheid van Data Science-modellen en zakelijke impact
+Versnel uw professionele carriäre
+Onze studenten krijgen de training en hulp die ze nodig hebben om aan de slag te gaan een nieuwe carriäre en een baan als Data Scientist of om te versnellen hun huidige loopbaan.
+5 Wat te verwachten
+Een bootcamp is een trainingsmodel dat in 2011 in de Verenigde Staten is ontstaan als reactie op het onvermogen van bedrijven om de programmeurs die dat nodig hebben en die universiteiten niet afstuderen. Het snelle succes van het bootcamp-format ligt in het feit dat het curriculum gericht is in de competenties die bedrijven te allen tijde zoeken; wat is ontwikkelt zich in veel minder tijd dan een diploma of een masterdiploma, dus afgestudeerden komen eerder op een zeer dynamische arbeidsmarkt; en wat is een meeslepend formaat, zeer gericht op de praktijk en vergelijkbaar met een echte omgeving van werk, wat de aanpassing van studenten in de echte werkomgeving. Sindsdien zijn bootcamps de grenzen overgegaan, getest in andere opleidingsgebieden zijn aangepast voor afgestudeerde studenten zonder voorkennis en hebben honderdduizenden bijgedragen banen Interesse in bootcamps van programmeren groeit niet meer te stoppen en vermenigvuldigt dat van de graad in informatica. In economieân zoals de Verenigde Staten zijn ze cruciaal geweest voor bedrijven de nieuwe en oude economie (voornamelijk telco's, banken, mediabedrijven) en tech startups) vinden het digitale talent dat ze nodig hebben ontwikkelen hun producten en groeien naar hun volledige potentieel. En beter nog, ze zijn een werkgelegenheid en professionele recyclingmotor voor degenen die hebben besloten de sprong te wagen en digitale vaardigheden te trainen om hun vaardigheden te verbeteren persoonlijke situatie.
+6 Wat te verwachten
+THE BRIDGE bootcamps zijn een trainingservaring die je zal veranderen beroepsleven en ook de manier en de capaciteit waarmee u geconfronteerd zult worden leer iets nieuws. Daarnaast zullen we u verbinden met het werkgelegenheidsecosysteem en met de digitale beroepen die de economische ontwikkeling leiden in Spanje.
+Bij THE BRIDGE wedden we op de beste internationale praktijken, die we passen ons aan en verbeteren voor onze omgeving. We zijn trots op het hebben van de meer rigoureus en toegewijd programma, gericht op de doelstellingen van ons studenten en werkgevers. Onze programma's vereisen, net als elk krachtig programma, de maximale inzet en toewijding van de kant van onze studenten die, gedurende van bootcamp ontwikkeling:
+ Ze verwerven basisvaardigheden, voor het geval je die niet hebt voorkennis.
+ Ze beheersen de technologieân en tools die worden gebruikt in de bedrijven van het beroep waarin ze worden opgeleid.
+ Elke dag brengen ze in praktijk wat ze hebben geleerd te consolideren kennis en ervaring opdoen.
+ Ze krijgen de steun en coaching van een goed voorbereid onderwijsteam en betrokken, die de hele bootcamp bij hen zullen zijn.
+ Ze zijn opgeleid met professionals met dezelfde rol, en ook met andere rollen van de bedrijf, om in high-performance teams te werken.
+ Ze ontwikkelen hun eigen projecten, die essentieel zijn om te laten zien wat ze zijn in staat voor toekomstige werkgevers.
+ Ze zijn opgeleid om deel te nemen en selectieprocessen te doorstaan, en zijn dat ook geadviseerd door ons team tijdens uw zoektocht naar een baan.
+ Ze worden een actief onderdeel van de technische gemeenschap.
+ Ze verwerven in recordtijd een nieuw professioneel profiel.
+Formaten aangepast aan uw persoonlijke situatie Al onze bootcamps worden fulltime of in aangeboden formaat compatibel met werk en studies.
+7 Wat te verwachten
+Vind en consolideer een baan als Data Scientist Uw opleiding moet dat de beste investering zijn doen voor uw professionele toekomst. In DE BRIDGE we gaan verder, we zullen je trainen en adviseren over vaardigheden en processen noodzakelijk om uw carriäre te lanceren en te consolideren professioneel. Gedurende de 12 weken duurt de bootcamp, We zullen je vertellen hoe een selectieproces is Voor een professional als jij simuleren we een competentie-interview en een interview techniek, zullen we u testvoorbeelden laten zien en vaardigheidsbeoordelingen, die u zult maken met ons uw Linkedin profiel ... En het allerbelangrijkste: we zullen uw profiel promoten in de selectieprocessen van de bedrijven die zij zoeken profielen zoals die van u en wij zullen u adviseren tijdens het opnameproces in uw nieuwe baan.
+Modellen en leermiddelen van het hoogste niveau
+Bij THE BRIDGE, naast het bootcamp format en een curriculum aangepast aan wat gevraagd in de markt, vindt u elementen en methodologieân van leren dat onze programma's tussen de producten plaatst meest geavanceerde academici wereldwijd, beschikbaar voor weinig instellingen educatief in ons land.
+1. CREWS leermodel
+Net als in de bemanning van een vliegtuig vind je teams met verschillende functioneert perfect op elkaar ingespeeld, bij THE BRIDGE trainen we onze digitale professionals om hun rol en ook hun pasvorm in een multifunctionele apparatuur waar alles zou moeten werken, ongeacht wie neem elke plaats in.
+Op specifieke momenten van de bootcamp worden teams georganiseerd met studenten van data science, UX / UI-ontwerp en cybersecurity om alleen aan uitdagingen te werken ze kunnen oplossen in multidisciplinaire teams, net als in het bedrijf. Bedrijven waarderen de snelle en gemakkelijke onboarding-aanpassing van hun apparatuur sindsdien dat is een concurrentievoordeel, een kosten- en tijdsbesparing.
+THE BRIDGE is de eerste bootcamp die dit trainingsmodel toepast.
+2. SAMM T leermotor
+De leerervaring bij THE BRIDGE wordt ondersteund door de SAMM T -engine, een eigen digitale tool waar je levenslang toegang toe hebt en die ook van het bevatten van alle inhoud van het curriculum, integreert alle elementen van ondersteuning voor klassikaal leren.
+3. Open badges
+Open badges zijn een educatief technologisch systeem voor ontwikkeling aanbeden door
+Mozilla en het IMS Global consortium die de prestatie via het web accrediteren leerdoelen waardoor:
+1. U heeft een aanvullend dekkingsaccreditatiesysteem
+presentatie van de vaardigheden en prestaties van THE BRIDGE voor gebruik als aanvulling op je cv.
+2. Het Open Badges-systeem maakt het mogelijk de prestatie van te meten en te accrediteren leerdoelen en ontwikkeling van vaardigheden van onze studenten waarmee bedrijven de profielen kunnen identificeren die het meest geschikt zijn aanpassen aan uw rekruteringsbehoeften.
+4. Toegang tot O'Reilly-inhoud
+Dankzij onze overeenkomst met O'Reilly Media, 's werelds nummer 1 uitgever in inhoud met betrekking tot technologie heeft u toegang tot de bibliotheek vol materiaal, waaronder zijn publicaties en boeken, video's, conferenties en tutorials.
+Elk van onze bootcamps heeft een bijbehorend "Leerpad" van inhoud die u kunt gebruiken als referentie om uw aan te vullen en voort te zetten training bij ons. Je hebt tijdens de bootcamp en alle zes maanden volledige toegang tot O'Reilly na voltooiing.
+9 Ons cv: data-analyse en machine-leertechniek
+Ons cv: data-analyse en machine
+Leren Engineering Volgens GitHub, de toonaangevend platform voor software ontwikkeling,
+JavaScript is de taal toonaangevende programmering in aantal gebruikers sinds 2014 en in totaal regio's van de wereld. Een aanpak om leren te vergemakkelijken De bootcamp heeft Python als programmeertaal, wat een van de talen is die de meeste hausse kent en toelaat op een eenvoudige manier verschillende soorten projecten uitvoeren. Vanwege zijn kenmerken Het is een van de meest verspreide talen in het onderwijs en laat de curve toe leren is erg snel. Daarnaast zal de bootcamp modules en training bevatten voorafgaand aan het ondersteunen van studenten bij het bereiken van de vereiste vaardigheden, en zal op een persoonlijke manier werken om ze te bereiken. 
+Veelzijdige professionals voorbereiden. De bootcamp heeft een aanpak waarbij de studenten de basisprincipes van de processen, algoritmen en tools die ze zullen gebruiken. Dit aanpak zal het voor studenten gemakkelijker maken om zich snel aan te passen werken in verschillende talen en kaders. Het doel is voor studenten zijn duidelijk over de problemen en de benaderingen om ze op te lossen, en dat ze aan het einde van de bootcamp die oplossingen kunnen toepassen met talen (python, R) en verschillende tools.
+Veelgevraagde technologieân
+In de data science bootcamp behandelen we de technologieân en tools "State of the art" en dat is zeer gewild door bedrijven. De studenten gebruiken technologieân zoals Deep Learning of ensembles, ze zullen het begrijpen de methodologieân om de verschillende stappen van een dataproject te dekken wetenschap en zal onder meer tools zoals Tableau gebruiken om de zakelijke eisen.
+Ons curriculum is ontworpen met als doel onervaren studenten toe te staan voordat ze in korte tijd een hoog kennisniveau kunnen bereiken tijd. Daarnaast wordt er naar studenten gezocht om de basisconcepten te begrijpen ze kunnen ze gemakkelijk vertalen in verschillende programmeertalen en ze zullen het behandelen technologieân en tools die worden gebruikt door bedrijven die erom vragen Data Science-professionals om inzetbaarheid te garanderen.
+10 De structuur van het programma
+Ervaring van een student bij THE BRIDGE is ontwikkeld over 15 weken in het dagformaat
+vol of 27 in het formaat verenigbaar met werk en studies en Het bestaat uit het volgende
+elementen:
+Core curriculum
+Het is het centrale deel van de bootcamp, waar alle vaardigheden worden opgedaan technieken die nodig zijn om het beroep te betreden en projecten worden ontwikkeld met die het leren zal verankeren. Dit alles maakt het portfolio en de 'uren van' compleet vlucht nodig voor afstuderen. Het curriculum is onderverdeeld in eenheden die overeenkomen met specialisaties professionals. Dit deel van de bootcamp is 100% ter plaatse en duurt 12 weken in de volledige of 24-weekse indeling in de indeling die compatibel is met werk en studies.
+Loopbaanbereidheid
+Als parallelle activiteit op de bootcamp, vanaf de eerste week en de hele week de ontwikkeling van het programma, en vanaf de eerste week zullen we eerst de studenten alle technieken die worden gebruikt in de gebruikelijke selectieprocessen in hun beroep, zullen we hen lesgeven en helpen om hun profiel te waarderen kandidaten voor elke baan en tot slot brengen wij u in contact met bedrijven die talent zoals het jouwe nodig hebben, zullen we je adviseren tijdens uw zoektocht naar werk en acclimatisatieproces naar de nieuwe baan.
+Masterclasses en conferenties met bedrijven
+Onze studenten en afgestudeerden krijgen toegang tot verschillende reeksen evenementen
+training in open klas formaat waarin onze leraren, begeleiders Academici en professionele partners brengen ons regelmatig dichter bij onderwerpen en huidige technieken, die de opleiding aanvullen en voortzetten curriculum ontwikkeld in onze programma's. Af en toe komen ook bedrijven met open contracten dichterbij onze campus om jezelf voor te stellen en je te ontmoeten.
+Ramp-up
+Ramp-up is de inleidende module van bootcamp en bevat de basis technici van elk van de beroepen. Het is een belangrijk element voor studenten die inschrijven zonder enige voorafgaande en essentiâle technische kennis zodat kan normaal functioneren tijdens de rest van de bootcamp.
+11 Wat ga je leren
+Gegevensanalyse van eenheid 1
+Module 1 Inleiding tot gegevens
+Wetenschap en gegevenstoegang
+We ontwikkelen het concept Data
+Wetenschap en we zullen een Complete Data Science voor ons vertrouwd maken met de processen en tools om te gebruiken in de hele bootcamp. We gaan ermee aan de slag de basis pythonstructuren voor gegevensbeheer.
+ Hoog niveau van datawetenschap
+ Te nemen stappen om een ??gegevensproces te ontwikkelen Volledige wetenschap
+ Werk op een eenvoudige manier met het beheren van gegevens in Python
+ Basisgegevensvisualisaties
+Module 2 Gegevensverkenning
+Zodra de gegevens zijn geopend en zijn hersteld, een eerste onderzoek naar de gegevens, om begrijpen wat de structuur is van zichzelf. Deze fase van data-analyse is exploratieve vlam, en daarin worden toegepast verschillende technieken om te organiseren informatie en detecteer de eerste bestaande patronen.
+ Toegang tot verschillende soorten gegevens met verschillende technieken en formaten
+ Manipuleer gegevens met Panda's. Type wijzigingen data, creatie van variabelen.
+ Begrijp de algemene kenmerken en statistieken van de gegevens. Gemiddelde, mediaan, percentielen, analyse van trends en detectie van uitbijters
+ Gebruik basis scan- en reinigingstechnieken: null of ongeldige verwijdering van gegevens.
+ Analysetechnieken van waarden gegroepeerd op klassen
+ Analyse van verdelingen van waarden van de klassen van voorspelling om te begrijpen of de dataset bevooroordeeld is of is geldig
+ Sluit zich aan
+ Samenvoegen, draaitabel
+ Bereken correlaties, mediaan, gemiddelde,
+ Visualisatie met panda's en matplot lib - data beginnen te eindigen
+Module 3 Feature engineering
+Meestal worden de gegevens gebruikt in analyses hebben geen weg semantisch zinvol zodat
+data science-algoritmen kunnen om ze te analyseren en er patronen uit te halen. De meeste bekende algoritmen, ze leren van een set van getallen, en de gegevens kunnen zijn: getallen, significante categorieân, tekst, netwerken, ..., of nee Tijdens de modellerings- en Feature-fase Engineering, een proces van transformatie van data naar numerieke kenmerken (de immense meestal).
+ Gebruik van trainingsgegevenssets en validatie en technieken om ze te creâren, Kruisvalidatie.
+ Entropieanalyse en informatiewinst voor begrijpen welke variabelen het meest relevant zijn.
+ Normalisatie van variabelen. Categorische variabelen en nee categorisch.
+ Dimensionaliteitsvermindering. Analyse van belangrijkste componenten.
+ Transformatie van variabelen voor betere prestaties van de modellen. Je beheerst de technieken van exploratie en voorbereiding van data zijn analyse en visualisatie.
+Unit 0 Ramp-Up: Fundamentals of Data Science, Statistics en programmeren
+Je raakt vertrouwd met de fundamentele concepten en tools data science en je verwerft de essentiâle kennis om te beginnen met de bootcamp
+ Databases. SQL.
+ Fundamentele statistieken
+ Programmeren met R en Python
+ Gebruik van de terminal. Git versiebeheer.
+Module 4 Datavisualisatie
+Deze module richt zich op presentatie van de informatie en de resultaten van de
+data science via de visualisatie. In de wetenschappelijke context van gegevens, is het essentieel om te communiceren in een correcte en efficiânte resultaten. Dit communicatie moet als volgt worden aangepast verschillende principes. Daarom deze module introduceert visualisatieprincipes goed zoals sommige van de belangrijkste gereedschap.
+ Principes van datavisualisatie
+ Gereedschap:
+ Python (Matplotlib, jupyter)
+ Seaborn, Dash, Notebooks
+ Tableau
+Module 1 Begeleid leren
+Machine Learning is het gebied van Artificial Intelligence waar modellen ze leren van data. Wanneer de gegevens zijn "gelabeld", proberen algoritmen om een ??patroon te vinden dat, van de andere invoervariabelen, identificeren de uitvoervariabele, het label. Deze algoritmen zijn onderverdeeld in twee grote groepen: classificatiealgoritmen en regressie.
+ Begrijp verschillende soorten leren houdt toezicht doen
+ Ken geschikte use-cases om te leren begeleid
+ Meest gebruikte algoritmen en implementatie in sk-leren
+ regressie.
+ logistische regressie
+ kNN
+ SVM
+ Beslisbomen, willekeurig bos.
+ Meet de kwaliteit en prestaties van de modellen
+ indicatoren
+ verwarringmatrix
+ Hyperparameters voor het afstemmen van de modellen.
+Module 2 Niet-lerend
+begeleid
+Als de gegevens niet zijn gelabeld, er is een reeks algoritmen georiânteerd om ze te begrijpen en de onderliggende structuur erin. Door bijvoorbeeld clusteringalgoritmen, zoek clusters in de gegevens van om de gelijkenis tussen te maximaliseren hen.
+ Begrijp wat leren niet doet begeleid
+ Ken de use cases waarin u de kunt gebruiken leren zonder toezicht
+ Leer enkele van de meest relevante algoritmen in leeromgeving zonder toezicht
+ Clustering: afstandsmetingen, K-middelen, Hiârarchisch, DBSCAN
+ Verenigingsregels
+ Dimensionaliteitsvermindering: PCA, LDA
+
+Module 3 Diep leren
+Deze module richt zich op een van de meest relevante gebieden van Machine Leren: diep leren. Dit soort leren neemt als referentie de hersenstructuur om te creâren algoritmen die zijn gestructureerd in verschillende lagen met verschillende taken en connectiviteit. Deze module introduceert enkele van de belangrijkste typologieân van diepe neurale netwerken en hoe implementeer ze met Keras en Tensorflow.
+ Basisprincipes van neurale netwerken
+ Gebruik spanners en basisbewerkingen
+ Begrijp het basisprincipe van bedienen met backpropagation.
+ Gebruik Keras en TensorFlow
+ Zet een Deep Learning runtime-omgeving op in de cloud met GPU-mogelijkheden.
+ Raak vertrouwd met het gebruik van Convolutional Neural Netwerken (CNN)
+ RNN
+ Regularisatie en optimalisatie
+ Veelvoorkomende problemen met netwerken op te lossen neuraal:
+ beeldherkenning
+ tekstherkenning
+Je oefent en beheerst enkele van de meest geavanceerde technieken van data science en kunstmatige intelligentie. Je zult je eigen bouwen data learning modellen.
+
+13 Wat ga je leren
+Module 4 Tijdreeksen
+Er zijn bepaalde gegevensproblemen, ze zijn erg gericht op behandeling met een subset van algoritmen bekend als seriealgoritmen tijdelijk (weersvoorspelling, Voorraden, verkopen, series demografische gegevens, etc.) ..
+ Leer gegevens te modelleren om een ??probleem op te lossen van tijdreeksen
+ Verkrijg de vaardigheden om de serie te ontbinden tijdelijk in zijn verschillende delen: trend, seizoensgebondenheid en lawaai.
+ Pas het ARIMA voorspellende model toe op de data tijdelijk.
+ ARIMA-model Bootcamp bij Data Science
+
+Unit 3 Data Science and business
+Module 1 Wetenschapsproductisering gegevens In het kader van data science niet alleen
+het gaat over het kunnen vastleggen, verwerken, opslaan, analyseren of visualiseren de gegevens. Het is ook nodig om weg te gaan proofs of concept voor projecten en schaalbare producten in fase van productie. Ik bedoel, het gaat om bekering data science in een van de andere bedrijfsprocessen binnen de organisatie zodat het is Efficiânt ingezet, in kwaliteit en gecontroleerd door het operations team van gegevens.
+ Weet wat de wetenschappelijke productie is gegevens
+ Gebruik tools die de productie mogelijk maken data science
+ Data Science Productization
+ Van proof of concept / prototyping tot
+productie
+ Gereedschap:
+ Augurk
+ AWS
+ Docker
+ Vonk
+
+Module 2 Storytelling en producten
+gegevens Deze module richt zich op presentatie van informatie door middel van verhalen van zowel gegevens als producten. Andere communicatiemechanisme is het gebruik van gegevensverhalen en de data science in producten. Dit module maakt het mogelijk om de principes te consolideren verhalen vertellen en ook wat leren van de belangrijkste tools die we toestaan ??om dit soort producten te maken.
+ Pas de principes van visualisatie toe op het gebied van verhalen vertellen
+ Ken de principes van dataverhalen
+ Leer de belangrijkste tools te gebruiken (eigen) en programmatisch voor het vertellen van verhalen
+ Leer hoe u dataproducten maakt die presenteren resultaten door informatiestromen
+ Tags: data storytelling, tableau, vroeg scherm, glanzend, bokeh / dash
+Je weet hoe data science een proces van wordten hoe u deze kunt relateren aan andere bedrijfsgebieden data storytelling.
+
+14 Het professionele profiel van Data Scientist
+Het professionele profiel van Data Scientist
+
+Om een ??carriäre op het gebied van Data Science te ondernemen, moet je combineren verschillende soorten vaardigheden en kennis, maar het is essentieel om te hebben kennis van gegevensverwerking, algoritmen en machinemodellen Leren en ook zakendoen. Binnen de Data Science-carriäre zijn er verschillende rollen en profielen (Data Engineer, Data Manager, Data Analyst, Machine Learning Engineer). In de Data bootcamp Wetenschap waar we ons op zullen richten om studenten voor te bereide om twee van de hoofdrollen te kunnen vervullen die het hoogste percentage vertegenwoordigen vacatures: Data Analist en Machine Learning Engineer.
+15 Het toelatingsproces
+Je pad naar een carriäre als data scientist begint in het proces van toegang tot DE BRUG. Er is geen voorafgaande technische ervaring vereist dat we u de basiskennis zullen geven, zo niet dat heb je, maar we gaan ons zorgen maken dat onze studenten de aanleg hebben en houding die nodig is om het meeste uit onze bootcamps te halen. Ons toelatingsproces zal evalueren:
+ Uw leerbehendigheid. In een programma met hoge prestaties zoals onze kennis is niet zo belangrijk als het kunnen assimileer nieuwe kennis.
+ Uw computationele intelligentie. Je hoeft geen ingenieur te zijn of een wiskundige in staat zijn om logische kennis te assimileren en samenvatting.
+ Uw motivatie en veerkracht. Een bootcamp zoals de onze kan veel bijdragen. Het kan uw leven, uw professionele carriäre en uw leven veranderen manier om vanaf nu elke leeruitdaging aan te gaan, maar alleen Als je bereid bent om alles te geven tijdens je tijd bij ons.
+Vul het online formulier in zodat we van u en van u weten
+motivatie om naar THE BRIDGE te komen.
+Stap 1 >> Stuur ons uw toelatingsaanvraag
+Op onze campus of via videoconferentie zullen we spreken leer ons beter kennen en ontdek uw motivatie en uw fit in de bootcamp. Je hoeft je niet voor te bereiden, je hebt het gewoon. Maak de redenen duidelijk waarom u zich bij ons wilt inschrijven.
+Stap 3 >> Toelatingsgesprek
+U moet een online test voltooien waarmee we uw kunnen evalueren het leren van behendigheid en computationele intelligentie voltooien de beoordeling die we maken van het toelatingsgesprek.
+Stap 2 >> Test online
+Binnen een maximale periode van 48 uur beoordelen wij uw aanvraag en We zullen communiceren als je klaar bent om je in te schrijven voor een van onze bootcamps en de stappen die je moet volgen om je te formaliseren registratie.
+Stap 4 >> Toelatingsbesluit
+16 Collegegeld en financieringsmogelijkheden
+Bootcamp bij Data Science
+Collegegeld en financieringsmogelijkheden
+Investeren in je opleiding is altijd een goede beslissing, maar niet altijd gemakkelijk.
+Bij THE BRIDGE geloven we dat we allemaal de kans verdienen om te slagen professional en wij zijn overtuigd van het rendement van onze investering studenten. We willen u de beste betalings- en financieringsmogelijkheden bieden onze programma's zodat u zich zorgen maakt over uw opleiding en niet over de kosten van uw registratie.
+Collegegeld
+Betaling van het inschrijfgeld dient te worden voldaan door overschrijving bank 1 week voor aanvang van de lessen. Wanneer u uw toelatingsproces voltooit, moet u uw registratie formaliseren maak een aanbetaling van 700 euro voor het reserveren van plaats. Dit bedrag het wordt in mindering gebracht op het bedrag in afwachting van collegegeld.
+Financieringsmogelijkheden
+Op dit moment accepteren we bij THE BRIDGE alleen contante betaling van de inschrijving, maar als je hulp nodig hebt bij het betalen, hebben we voorwaarden afgesproken speciale financiering met Banco de Sabadell zodat u kunt financieren collegegeld tot 24 maanden.
+Als u een gepersonaliseerde berekening van uw financieringsplan wilt maken, neem dan contact op
+Neem contact met ons op via admisiones@thebridge.tech of telefonisch
+91901 7257.
+Beurzen en speciale financieringsvoorwaarden
+Bij THE BRIDGE zetten we ons in om toegang te geven tot het grootste aantal
+mensen om een ??carriäre in de meest veeleisende beroepen en tegelijkertijd te verminderen
+de kloof in digitale vaardigheden die bedrijven en onze economie
+ze moeten hun potentieel maximaliseren.
+We zullen beursprogramma's hebben en we zullen ons ontwikkelen
+speciale financiering die we op onze website publiceren en van waaruit u
+We zullen u informeren via e-mail en via ons opnameteam.
+17 Contact
+Bootcamp bij Data Science
+Contact opnemen
+Voor meer informatie over onze programma's (data, tijden,
+prijzen, ...) raadpleeg onze website www.thebridge.tech of neem contact met ons op
+rechtstreeks via e-mail op admisiones@thebridge.tech of telefonisch
+op 91901 7257.
+Voor vragen die niet gerelateerd zijn aan onze programma's, bezoek de
+pagina www.thebridge.tech/ wat we doen om het kanaal te vinden
+geschikt voor uw aanvraag of neem rechtstreeks contact met ons op via e-mail op
+hallo@thebridge.tech.
+We verwelkomen u ook graag op onze campus in Paseo
+de Recoletos, 15 (Madrid).
+Meer over
+We zijn veel meer dan een school van
+bootcamps. Wij zijn een Talent Accelerator
+Digital en we streven ernaar om de digitale kloof te verkleinen,
+bedrijven helpen banen en waarde te creâren
+en onze afgestudeerden om hun te starten en te versnellen
+professionele carriäres.
+hallo@thebridge.tech
+Wij adviseren de technische en
+human resources van grote bedrijven en
+klein in werving, re-skilling en hoger
