@@ -13,57 +13,57 @@ def clean_strings(strings):
     return result
 
 
-"""" To read all line of a json file. """"
-with open('name_file') as f:
-    line = f.readline()
-    if line:
-        print(line)
-        line = f.readline()
-print(line)
 
+# Data mining:
 
-""" Lambda function to transform to float and not take into account first elemen (dollar sign in most
- cases,but change how needed."""
+def normalize_dataframe(df):
+    scaler = MinMaxScaler()
+    df_normalized = pd.DataFrame(
+        data=scaler.fit_transform(df.values), 
+        columns=df.columns, 
+        index=df.index)
+    return df_normalized
 
-Floater = lambda x: float(x[1:-1])
+# Esta función debería ser usada al principio del todo ya que se realizan los cambios de la misma manera.
+def my_transformation(df, norm=False, drop_nans=True, my_decision=0):
+    """
+    Esta función utiliza un dataframe original, y lo modifica para retornar el dataframe con todos los cambios realizados que hemos creído convenientes.
+    """
+    df_modified = df.copy()
+    if drop_nans:
+        # 1. Elimino columna 9 y 11 por tener nan
+        df_modified.drop(["9", "11"], 1, inplace=True)
+    else:
+        # Convierto NaNs a la mean de esas columnas
+        df_modified["9"] = df_modified["9"].fillna(df_modified["9"].mean())
+        df_modified["11"] = df_modified["11"].fillna(df_modified["11"].mean())
 
+    # 2, 3 y 4. Realizo el encoder de las categóricas además de normalizar
+    # 2.Paso las columnas "Object" a numéricas
+    X_categorical_no_numbers = df_modified[df_modified.select_dtypes('object').columns].apply(LabelEncoder().fit_transform)
+    # 3. Cojo solo columnas numéricas
+    X_others = df_modified.select_dtypes(exclude=['object'])
+    if norm:
+        # 4. Normalizo las columnas numéricas
+        X_others = normalize_dataframe(df=X_others)
+    # 5. Concateno el resultado final
+    df_modified = pd.concat([X_others, X_categorical_no_numbers], axis=1)
 
+    if my_decision == 1:
+        # me quedo solo con las columnas: 
+        # [admission_deposit, city_code_patient, age, hospital_code, available extra rooms in hospital, hospital_type_code_feat_hospital_code, visitors_with_patient, bed grade, severity of illness]
+        df_modified = df_modified[["16","11", "15", "13", "14", "1", "5", "2", "9"]]
 
-"""function to change gender column to numeric, to then use to calculate ratios"""
-def gender_to_numeric(x):
-    if x == 'M':
-        return 1
-    if x == 'F':
-        return 0
+    return df_modified
 
-# apply the function to the gender column and create a new column
-df['new_column_name'] = df['gender_column'].apply(gender_to_numeric)
-# use the new column and sum via groupby specific column and the vulue count of the specific column to calculate ratio
-variabel = (df.groupby('specific_column').new_column_name.sum() / df.specific_column.value_counts()) * 100 
-# add % sign
-variabel.astype(str) + "%"
-
-
-
-""" lambda function to show all the columns and values after doing a groupby """
-lambda df:df.sort_values(by=["column_name1","column_name2"]) # can also do only one column
-
-#use as following: 
-#variabel = name_df.groupby(["column_name1", "column_name2"])
-#variabel = variabel.apply("insert Lambda function")
-#delete the duplicate columns names
-
-
-"""function to replace values of a column that are negative with the mean value 
-    of the column (not taking into account the negative values)"""
-
-def replace(group):
-    mask = group<0
-    group[mask] = group[~mask].mean()
-    return group
-
-## use as following: new_info = df.groupby("columns name of groupby")["column to take into account"].apply(replace)
-
-
-"""Clean strings:"""
-df["Column"].str.elem.extract('([a-zA-Z\s]+)', expand=False).str.strip()
+#To save a model
+    def save_model(to_save, filepath):
+        try:
+            if file_exists(filepath=filepath):
+                filepath = rename_filename(filepath=filepath)
+                pickle.dump(to_save, open(filepath, 'wb'))
+                print("Saved successfully")
+                return True, filepath
+        except Exception as e:
+            print("Error during saving model:\n", e)
+            return False, filepath
