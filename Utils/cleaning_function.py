@@ -1,7 +1,26 @@
 from sklearn.preprocessing import LabelEncoder 
 from sklearn.preprocessing import MinMaxScaler
+from sklearn.decomposition import PCA
 import pandas as pd
 import numpy as np
+
+
+def pca_df(X, n):
+    """
+    Function to reduce dimensions
+
+    X = X values that need to be reduced in dimensions. 
+    n = the number of n_components:
+        - An exact integer number for the amount of dimension you want 
+            or 
+        - A number between 0 and 1. The amount of dimensions will be reduced to the minimum amount 
+        that will keep the R2 score of the number put in.  
+    """
+    n_components = int(n)
+    pca = PCA(n_components=n_components)
+    pca.fit(X)
+    X = pca.transform(X)
+    return X
 
 def normalize_dataframe(df):
     scaler = MinMaxScaler()
@@ -11,10 +30,10 @@ def normalize_dataframe(df):
         index=df.index)
     return df_normalized
 
-def my_transformation(df, norm=False, drop_nans=True, drop_dupl=False my_decision=0):
+def my_transformation(df, norm=False, drop_nans=True, drop_dupl=False, pca=False, my_decision=0):
     """
     Function to modify original dataframe and return the modified version.
-    Change where neccessary.
+    To be Changed accordingly, where neccessary.
     """
     # LabelEncoder
     le = LabelEncoder()
@@ -23,10 +42,10 @@ def my_transformation(df, norm=False, drop_nans=True, drop_dupl=False my_decisio
     if drop_nans:
         # 0. removes columns of choice
         df_modified.drop(["9", "11"], 1, inplace=True)
-    else:
+    #else:
         # Converts NaN values to the mean value of the same column.
-        df_modified["9"] = df_modified["9"].fillna(df_modified["9"].mean())
-        df_modified["11"] = df_modified["11"].fillna(df_modified["11"].mean())
+        #df_modified["9"] = df_modified["9"].fillna(df_modified["9"].mean())
+        #df_modified["11"] = df_modified["11"].fillna(df_modified["11"].mean())
 
     if drop_dupl:
         #1 remove duplicated values
@@ -37,7 +56,7 @@ def my_transformation(df, norm=False, drop_nans=True, drop_dupl=False my_decisio
     # 3. Get only numerical columns
     X_others = df_modified.select_dtypes(exclude=['object'])
     if norm:
-        # 4. Normalize numerical columns
+    # 4. Normalize numerical columns
         X_others = normalize_dataframe(df=X_others)
     
     # 5. concatenate final result
@@ -50,5 +69,20 @@ def my_transformation(df, norm=False, drop_nans=True, drop_dupl=False my_decisio
             df_modified = df_modified[["16", "15", "13", "14", "1", "5", "2"]]
         else:
             df_modified = df_modified[["16","11", "15", "13", "14", "1", "5", "2", "9"]]
+
+    if pca:
+
+        """
+        reductions of dimensions.
+        will return the modified df and new X values.
+        """
+
+        target = input("Put target column of the dataframe")
+        n = float(input("Put number of n_components"))
+        X = df_modified.drop(target).values
+        X = pca_df(X=X, n=n)
+
+        return df_modified, X
+
 
     return df_modified

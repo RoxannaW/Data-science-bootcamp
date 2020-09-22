@@ -136,8 +136,12 @@ def choose_model(option_user, **params):
                 model = XGBClassifier()
                 return model
 
-def train_model(model, df, target_name):
-    X = df.drop(target_name, 1).values
+def train_model(model, df, target_name, X_values=None, y_values=None):
+    if X_values.any():
+        X = X_values
+    else:
+        X = df.drop(target_name, 1).values
+    
     y = df[target_name].values
     
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=4)
@@ -378,7 +382,7 @@ def train_model(model, df, target_name):
         
     return model_trained, accuracy
 
-def main(df):
+def main(df, X_values=None, y_values=None):
     """
     Function that will create model of choice with parameters of choice and trains it with desired method. 
     After showing the learning process and showing the accuracy score, the model can be saved for further usage.
@@ -399,7 +403,8 @@ def main(df):
         option 4 = RandomForestClassifier()
         option 5 = XGBClassifier()
     '''
-
+    if X_values.any():
+        X = X_values
     choice = input("What type of problem: 1 for regression or 2 for classification?")
     params = input("Enter YES in case you want to enter a dictionary of params, if not neccesary put NO") 
     target = input("What is the target column?")
@@ -421,7 +426,11 @@ def main(df):
                 param_list[temp[0]] = temp[1]
 
         model = choose_model(option_user=choice, params=param_list)
-        model_trained, accuracy = train_model(model=model, df=df, target_name=target)
+        if X.any():
+            model_trained, accuracy = train_model(model=model, df=df, target_name=target, X_values=X)
+        else:
+            model_trained, accuracy = train_model(model=model, df=df, target_name=target)
+
 
     import time
     print("score of model:", accuracy)
