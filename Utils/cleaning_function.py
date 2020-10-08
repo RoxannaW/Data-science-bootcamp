@@ -16,19 +16,25 @@ def pca_df(X, n):
         - A number between 0 and 1. The amount of dimensions will be reduced to the minimum amount 
         that will keep the R2 score of the number put in.  
     """
-    n_components = int(n)
+    
+    n_components = n
+
     pca = PCA(n_components=n_components)
     pca.fit(X)
     X = pca.transform(X)
     return X
 
-def normalize_dataframe(df):
-    scaler = MinMaxScaler()
-    df_normalized = pd.DataFrame(
-        data=scaler.fit_transform(df.values), 
-        columns=df.columns, 
-        index=df.index)
-    return df_normalized
+def normalize_dataframe(df, column=None):
+    if column:
+        scaler = MinMaxScaler()
+        df[[column]] = scaler.fit_transform(df[[column]])
+    else:
+        scaler = MinMaxScaler()
+        df = pd.DataFrame(
+            data=scaler.fit_transform(df.values), 
+            columns=df.columns, 
+            index=df.index)
+    return df
 
 def my_transformation(df, norm=False, drop_nans=True, drop_dupl=False, pca=False, my_decision=0):
     """

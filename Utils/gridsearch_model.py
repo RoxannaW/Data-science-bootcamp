@@ -9,6 +9,10 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
 from xgboost import XGBClassifier
+from sklearn.linear_model import Perceptron
+from sklearn.svm import LinearSVC
+from sklearn.linear_model import SGDClassifier
+from sklearn.tree import DecisionTreeClassifier
 
 def grid(X, y, verbose=None, scoring=None):
     """
@@ -22,7 +26,10 @@ def grid(X, y, verbose=None, scoring=None):
         option 7 = svm - SVC
         option 8 = RandomForestClassifier()
         option 9 = XGBClassifier()
-
+        option 10 = Perceptron
+        option 11 = LinearSVC
+        option 12 = SGDClassifier
+        option 13 = DecisionTreeClassifier
     option to change the scoring. example: scoring='neg_root_mean_squared_error'
     """
     if verbose:
@@ -126,9 +133,10 @@ def grid(X, y, verbose=None, scoring=None):
         new_model = SVC()
 
         param_grid = [
-        {'kernel' : [7, 8, 9, 10, 11],
-            'weights' : ['linear', 'poly', 'rbf', 'sigmoid', 'precomputed'],
-            'C' : [-1, 1, 3]}
+        {
+            'kernel' : ['linear', 'poly', 'rbf'],
+            'C' : [-1, 1, 3],
+            'degree': [3, 5, 8] }
         ]
 
         clf = GridSearchCV(new_model, param_grid=param_grid, cv=3, n_jobs=-1)
@@ -164,6 +172,64 @@ def grid(X, y, verbose=None, scoring=None):
         best_clf = clf.fit(X, y)
         return best_clf.best_estimator_
 
+    
+    elif option == 10:
+        
+        new_model = Perceptron()
+
+        param_grid = [
+        {'penalty' : [None, 'l2','l1','elasticnet'],
+            'fit_intercept':[True, False],
+            'shuffle': [True, False]}
+        ]
+
+        clf = GridSearchCV(new_model, param_grid=param_grid, cv=3, n_jobs=-1)
+        best_clf = clf.fit(X, y)
+        return best_clf.best_estimator_
+
+    elif option == 11:
+        
+        new_model = LinearSVC()
+
+        param_grid = [
+        {'penalty' : ['l1', 'l2'],
+            'loss':['hinge', 'squared_hinge'],
+            'C': [1, 3, 5, 8]}
+        ]
+
+        clf = GridSearchCV(new_model, param_grid=param_grid, cv=3, n_jobs=-1)
+        best_clf = clf.fit(X, y)
+        return best_clf.best_estimator_
+
+    elif option == 12:
+        
+        new_model = SGDClassifier()
+
+        param_grid = [
+        {'penalty' : ['l2', 'l1', 'elasticnet'],
+            'early_stopping':[True, False],
+            'loss': ['hinge', 'log', 'modified_huber', 'squared_hinge']}
+        ]
+
+        clf = GridSearchCV(new_model, param_grid=param_grid, cv=3, n_jobs=-1)
+        best_clf = clf.fit(X, y)
+        return best_clf.best_estimator_
+
+    elif option == 13:
+        
+        new_model = DecisionTreeClassifier()
+
+        param_grid = [
+        {'criterion' : ['gini', 'entropy'],
+            'splitter':['best', 'random'],
+            'min_samples_split': [1, 2, 5, 10]}
+        ]
+
+        clf = GridSearchCV(new_model, param_grid=param_grid, cv=3, n_jobs=-1)
+        best_clf = clf.fit(X, y)
+        return best_clf.best_estimator_
+        
 
    
-      
+
+   
